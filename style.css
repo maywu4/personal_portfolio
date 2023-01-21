@@ -83,7 +83,7 @@ header.p-section {
 }
 
 .p-section {
-  padding: 100px 0px;
+  padding: 50px 0px;
 }
 
 .p-section-lg {
@@ -134,4 +134,14 @@ header.p-section {
   left: -0.05em;
   padding: 0 0.25em;
   bottom: 0.2em;
+}
+
+#background {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.col-2 {
+  width: 40%
 }
